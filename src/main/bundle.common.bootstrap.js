@@ -1,5 +1,5 @@
 import { setRuntimeAlias } from "@ui5/webcomponents-base/dist/Runtimes.js";
-import { setPackageCSSRoot, setUseLinks } from "@ui5/webcomponents-base/dist/CSP.js";
+// import { setPackageCSSRoot, setUseLinks } from "@ui5/webcomponents-base/dist/CSP.js";
 
 setRuntimeAlias("UI5 Web Components Playground");
 
